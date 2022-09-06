@@ -1,2 +1,2 @@
 #!/bim/bash
-tr "A" "Z" | tr "c" "e"
+echo ABc | tr Ac Ze

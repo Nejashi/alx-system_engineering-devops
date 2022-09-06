@@ -1,2 +1,2 @@
 #!/bim/bash
-echo ABc | tr Ac Ze
+echo $word | tr Ac Ze
